@@ -1,5 +1,6 @@
-Designed to support penetration testing, network diagnostics, traffic shaping, and cyber defense training, this powerful utility is part of the broader t
-oolkit offered by Accurate Cyber Defense to strengthen digital infrastructure and identify potential vulnerabilities.
+The accurate_cyber_defense_dns_traffic_generator is a specialized cybersecurity tool developed to simulate, analyze, and monitor DNS-based network traffic in both secure and threat-aware environments.
+Designed to support penetration testing, network diagnostics, traffic shaping, and cyber defense training, this powerful utility 
+is part of the broader toolkit offered by Accurate Cyber Defense to strengthen digital infrastructure and identify potential vulnerabilities.
 
 At its core, the tool enables the generation of realistic Domain Name System (DNS) traffic, allowing users to replicate both normal and abnormal DNS request patterns. 
 This feature helps administrators and security researchers evaluate the behavior of firewalls, intrusion detection/prevention systems (IDS/IPS), DNS resolvers,
@@ -7,7 +8,7 @@ and other network monitoring tools under load or during simulated attack scenari
 
 **Key Features:**
 
-DNS Traffic Simulation:
+DNS Traffic Simulation
 
 Sends continuous or burst-mode DNS queries to specified destinations.
 
